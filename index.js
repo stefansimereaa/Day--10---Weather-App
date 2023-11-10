@@ -8,7 +8,7 @@ search.addEventListener('click', () => {
 
 
     // Your API KEY from https://openweathermap.org/
-    const APIKey = 'here api key';
+    const APIKey = '452f3357aba3f07545cfcdf331634c3a';
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
